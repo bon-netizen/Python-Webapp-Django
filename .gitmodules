@@ -1,0 +1,6 @@
+[submodule "1myproject"]
+	path = 1myproject
+	url = https://github.com/bon-six/TestDjangoApp1.git
+[submodule "2myprj"]
+	path = 2myprj
+	url = https://github.com/bon-six/DjangoTest2.git
