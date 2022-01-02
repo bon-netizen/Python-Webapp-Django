@@ -4,3 +4,6 @@
 [submodule "2myprj"]
 	path = 2myprj
 	url = https://github.com/bon-six/DjangoTest2.git
+[submodule "3dataAPI"]
+	path = 3dataAPI
+	url = https://github.com/box-six/Django-sample3.git
