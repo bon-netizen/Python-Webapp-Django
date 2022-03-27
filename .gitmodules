@@ -1,9 +1,15 @@
-[submodule "1myproject"]
-	path = 1myproject
-	url = https://github.com/bon-six/TestDjangoApp1.git
-[submodule "2myprj"]
-	path = 2myprj
-	url = https://github.com/bon-six/DjangoTest2.git
-[submodule "3dataAPI"]
-	path = 3dataAPI
-	url = https://github.com/box-six/Django-sample3.git
+[submodule "1TryFirstWebapp"]
+	path = 1TryFirstWebapp
+	url = https://github.com/bon-six/DjangoSample1.git
+[submodule "2WebappVote"]
+	path = 2WebappVote
+	url = https://github.com/bon-six/DjangoSample2.git
+[submodule "4GraphQLAPI"]
+	path = 4GraphQLAPI
+	url = https://github.com/bon-six/Django-sample4.git
+[submodule "3DataAPIrestful"]
+	path = 3DataAPIrestful
+	url = https://github.com/bon-six/Django-sample-3.git
+[submodule "2TeachingClass"]
+	path = 2TeachingClass
+	url = htts://github.com/bon-six/thursday-class-diango.git
